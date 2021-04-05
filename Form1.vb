@@ -18,7 +18,7 @@ Public Class Form1
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
 
         ' Create a web request that will be used to talk with the server and set the request method to upload a file by ftp.
-
+        '
         '//Dim objIniFile As New IniFile("C:\FTP.ini")
         '//Remote Connection Setup
         '//Dim ftpprot As String = objIniFile.GetString("FTP", "PROTOCOL", "(none)")
